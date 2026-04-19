@@ -1,4 +1,4 @@
-# 💸 El Cashback del Barrio — Motor de Lealtad para el Micro-Comerciante
+<img width="1012" height="147" alt="image" src="https://github.com/user-attachments/assets/4d5aa961-74e7-4c7b-b796-9495a681fb5a" /># 💸 El Cashback del Barrio — Motor de Lealtad para el Micro-Comerciante
 
 <p align="center">
   <strong>Interact2Hack 2026 · Reto Corporativo Deuna · Línea Apps</strong>
@@ -74,7 +74,7 @@ La solución aborda un problema real: los dueños de pequeños negocios no tiene
 
 ## 📐 Diseño & Prototipo
 
-> 🔗 **[Ver prototipo en Figma →](#)** *(reemplazar con link real)*
+> 🔗 **[Ver prototipo en Figma →](#)** https://www.figma.com/design/BRC0uET4c7vSdUKu5gQwBc/Untitled?node-id=0-1&t=6yGdijp3qIc4YF4X-1
 
 El prototipo navegable incluye:
 
@@ -91,14 +91,13 @@ La lógica de cashback opera bajo un **modelo de costo compartido** entre el com
 
 ```
 Ejemplo concreto:
-  Ticket promedio del comercio:    $8.00
-  Cashback ofrecido al cliente:    $1.00  (12.5%)
-  Aporte del comerciante:          $0.70  (70% del beneficio)
-  Aporte de Deuna (subsidio):      $0.30  (30% del beneficio)
+  Valor promedio de los puntos:    $0.03
+  Cashback ofrecido al cliente:    puntos acumulables en el lugar de realice una transacción
+  Aporte del comerciante:          valor del punto = costo del producto/meta de puntos canjeables
+  
   
   Resultado para el comerciante:
     ↑ Recurrencia estimada:        +35% en visitas del cliente beneficiado
-    ↑ Ingreso neto adicional:      $8.00 - $0.70 = $7.30 en segunda compra
     ✅ ROI positivo desde la 2da transacción
 ```
 
