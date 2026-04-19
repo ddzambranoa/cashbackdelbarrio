@@ -1,4 +1,4 @@
-<img width="1012" height="147" alt="image" src="https://github.com/user-attachments/assets/4d5aa961-74e7-4c7b-b796-9495a681fb5a" /># 💸 El Cashback del Barrio — Motor de Lealtad para el Micro-Comerciante
+# 💸 El Cashback del Barrio — Motor de Lealtad para el Micro-Comerciante
 
 <p align="center">
   <strong>Interact2Hack 2026 · Reto Corporativo Deuna · Línea Apps</strong>
