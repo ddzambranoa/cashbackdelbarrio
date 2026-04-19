@@ -171,17 +171,17 @@ flutter build apk --release
 
 | Nombre | Rol |
 |---|---|
-| **Camila Romero** | Flutter Developer · UX |
+| **Camila Romero** | UI/UX Designer · Figma |
 | **Daniel Zambrano** | Flutter Developer · Backend Logic |
-| **Brianna Espín** | UI/UX Designer · Figma |
+| **Ana Villalva** | UI/UX Designer · Figma |
 | **Eliana Correa** | Business Model · Pitch |
-| **Ana Villalva** | Data & Liquidation Logic |
+| **Brianna Espín** | Data & Liquidation Logic |
 
 ---
 
 ## 🤝 Contexto del Hackathon
 
-Este proyecto fue desarrollado en el marco de **Interact2Hack 2026**, evento organizado por la comunidad universitaria ecuatoriana, en respuesta al reto corporativo planteado por **Deuna** — fintech líder en pagos digitales en Ecuador.
+Este proyecto fue desarrollado en el marco de **Interact2Hack 2026**, evento organizado por la USFQ , en respuesta al reto corporativo planteado por **Deuna** — fintech líder en pagos digitales en Ecuador.
 
 El reto busca convertir la base de micro-comercios que ya usan Deuna para cobrar, en un ecosistema de lealtad donde cada transacción genere un gancho para la siguiente.
 
